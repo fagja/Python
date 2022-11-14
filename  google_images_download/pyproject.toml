@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "google_images_download"
+name = " google_images_download"
 version = "0.1.0"
 description = ""
 authors = ["fagja <hey.shunya19@gmail.com>"]
